@@ -1,4 +1,7 @@
-Óla, me chamo Vinicius Silva De Araújo 
+Óla, me chamo Vinicius Silva De Araújo
 <br>
 <br>
-💻Programador front-end  
+programador💻front-end.
+<br>
+<br>
+
